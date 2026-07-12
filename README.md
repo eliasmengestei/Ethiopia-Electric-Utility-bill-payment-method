@@ -58,3 +58,10 @@ This project was inspired by a real experience. While paying my Ethiopia Electri
 That experience made me realize how easily users can make costly mistakes when customer information is not verified before payment. Instead of accepting the problem, I decided to build a solution.
 
 The goal of this application is to make electricity bill payments safer by validating customer information before confirming a transaction, helping users avoid accidental payments to the wrong account.
+##  Project Status
+
+This project is currently **under active development**.
+
+The core application and user interface have been developed, and several key features are already implemented. Additional functionality, integrations, and improvements are planned as I continue developing the project.
+
+My goal is to build a secure, reliable, and user-friendly electricity bill payment application that helps reduce payment errors through customer validation and an improved payment workflow.
