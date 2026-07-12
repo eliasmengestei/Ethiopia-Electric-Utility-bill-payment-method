@@ -49,5 +49,12 @@ This application introduces a validation process that verifies customer informat
 This project was developed as part of my software development portfolio to demonstrate Flutter mobile application development, UI/UX design, secure input validation, and real-world problem-solving for utility payment systems in Ethiopia.
 
 ## Author
-
 **Elias Mengestei**
+
+## Motivation
+
+This project was inspired by a real experience. While paying my Ethiopia Electric Utility (EEU) electricity bill through an existing payment service, I accidentally entered the wrong customer number, and the payment was sent to another customer's account.
+
+That experience made me realize how easily users can make costly mistakes when customer information is not verified before payment. Instead of accepting the problem, I decided to build a solution.
+
+The goal of this application is to make electricity bill payments safer by validating customer information before confirming a transaction, helping users avoid accidental payments to the wrong account.
