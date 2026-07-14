@@ -1,6 +1,6 @@
-# Ethiopia-Electric-Utility-bill-payment-method
+# Ethiopia-Electric-Utility-bill-payment-method (PayBill)
 A Flutter-based mobile application for Ethiopia Electric Utility (EEU) bill payment, providing a simple, secure, and user-friendly experience for managing electricity bills.
-# Ethiopia Electric Utility (EEU) Bill Payment App
+
 
 ## Overview
 
@@ -26,6 +26,7 @@ This application introduces a validation process that verifies customer informat
 * Error handling and input validation
 * Mobile-friendly design
 * Scalable architecture for future EEU services
+* reading the meter and save 
 
 ## Technology Stack
 
